@@ -1,0 +1,4 @@
+Nome, Idade, Cidade
+Alberto, 92, Chique-Chique/BA
+Arthur, 28, Arraial/RJ
+Matheus, 24, Cotia/SP
